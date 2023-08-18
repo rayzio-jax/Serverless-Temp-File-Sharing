@@ -1,17 +1,6 @@
-<h2 align="center">Happy 78th Indonesian Independence Day</h2>
-<p align="center" valign="top">
-  <a href="https://en.wikipedia.org/wiki/Independence_Day_(Indonesia)"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/78_RI_2023.svg" width="20%" alt="Indonesian Independence Day Image"/></a>
-</p>
-<h4 align="center">In honor of Indonesia's Independence Day, we present a special project that embodies the spirit of unity and progress.</h4>
-<hr />
-
 # Serverless Temporary File Sharing using Cloudflare Worker and Google Drive API
-**Exploring Free and Unlimited Sharing Platforms**
 
-Discover the world of streamlined and costless file sharing through our innovative Serverless Temporary File Sharing solution. Utilizing Cloudflare Worker and the Google Drive API, this platform empowers you to share files without constraints. Uploaded files find a home on Google Drive without an expiration date, ensuring they're available until you decide to download. Once downloaded, files are automatically removed, maintaining your drive's tidiness. Simplify cross-platform sharing with our built-in QR code generator. Experience efficient, worry-free, and secure file sharing at its best.
-
-<hr>
-
+## Screenshots
 ![Yuuki0 Temporary File Sharing](https://github.com/YuukioFuyu/Serverless-Temp-File-Sharing/assets/79379934/c564b9c3-d89d-4d1d-9a5d-e8ead2696389)
 ![File Shared](https://github.com/YuukioFuyu/Serverless-Temp-File-Sharing/assets/79379934/6fcf20ed-dea5-4830-b7f2-5d6d4372c8d3)
 
